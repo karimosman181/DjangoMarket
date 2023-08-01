@@ -5,5 +5,5 @@ def index(request):
     return render(request, 'core/index.html')
 
 
-def contatct(request):
+def contact(request):
     return render(request, 'core/contact.html')
